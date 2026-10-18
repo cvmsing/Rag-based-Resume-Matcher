@@ -1,0 +1,6 @@
+cohere
+chromadb
+python-dotenv
+PyPDF2
+python-docx
+streamlit

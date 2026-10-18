@@ -1,0 +1,33 @@
+{
+  "job_description": "Java developer with experience in Java programming.",
+  "top_matches": [
+    {
+      "candidate_name": "SHIVAM SINGH",
+      "resume_path": "C:\\Users\\shivam\\OneDrive\\Desktop\\Assignment 5\\resumes\\ShivamSinghResume.pdf",
+      "match_score": 60.84,
+      "matched_skills": [
+        "Java"
+      ],
+      "relevant_excerpts": [
+        "SHIVAM SINGH\nSoftware Engineer | Backend Developer (Java, Spring Boot)\ncvm.singh20@gmail.com linkedin.com/in/shiv am-singh-20a889189 Uttar Pr adesh, India, 226008",
+        "I am a back end-focused Softwar e Engineer with o ver 5 y ears of experience in maintaining and enhancing scalable Ja va-based applications. My exper tise lies  \nin Ja va, Spring Boot, Micr oser vices, and per formance optimization. I ha ve a pr oven ability t o reduce latency , impr ove system efficiency , and implement secur e \ndata pr ocessing solutions\nKEY ACHIEVEMENTS\nEnhanced System E fficiency\nOptimiz ed pr ocessing time b y 70% using batch oper ations.Achie ved Near Real-Time\nReduced dat",
+        "Java SpringBoot Gmail Micr oser vices Multi-thr eading SpringBatch RSA AES Encr yption Hibernate\nJPA Maven Jenkins SVN\nwww .enhancv .com​P o w er ed b y•\n•\n•\n•\n•\n•\n•\n•\n•\n•​ ​ ​"
+      ],
+      "reasoning": "Matching skills: Java. Relevant sections: General, Summary, Skills. Resume states 5 years of experience."
+    },
+    {
+      "candidate_name": "Sudhanshu Singh",
+      "resume_path": "C:\\Users\\shivam\\OneDrive\\Desktop\\Assignment 5\\resumes\\sudhanshu_resume_final.pdf",
+      "match_score": 60.57,
+      "matched_skills": [
+        "Java"
+      ],
+      "relevant_excerpts": [
+        "Sudhanshu Singh\nSoftware Engineer | Full-Stack Developer (Java, Spring Boot, \nReact)\n+91-9415222147 sudhanshuofficial257@gmail.com https://www\n.linkedin.com/in/sudhanshu257\nUttar Pradesh, India, 226201\nPROFILE SUMMARY\nFull-Stack developer with over 3.5 years of experience in delivering Robust and Scalable Web Applications. Expertise encompasses \nJava, Spring Boot, Microservices, and React with specialization in back-end development. Have a proven record in managing the  \nSoftware Development Lif",
+        "Java, Spring Boot, Microservices, Spring Data JPA, Hibernate, JDBC, MYSQL, JWT, KeyCloak, OAuth2.0, OpenID Connect, Kafka,  \nAWS, Maven, Docker, Jenkins, Git, GitHub, SVN, System Design, JUnit, Mockito, React.js",
+        "Social Hub\n11/2025 - Present \nsocialhubb.fun\nFull-Stack Social Media Platform\nDesigned and built a production-grade full-stack application supporting posts, likes, comments, and connections.Developed a \nsecure back-end using Java, Spring Boot with JWT-based Authentication and Keycloak server.\nIntegrated Keycloak Server for centralized identity and session management.\nBuilt scalable REST APIs and a React frontend, deployed on AWS.•\n•\n•\n•\n•\n•\n•\n•\n•\n•\n•​ ​ ​\n​\n​ ​\n​ ​\n​"
+      ],
+      "reasoning": "Matching skills: Java. Relevant sections: General, Skills, Projects. Resume states 3.5 years of experience."
+    }
+  ]
+}
